@@ -83,7 +83,7 @@ const FeaturedService: FC = () => {
               transition={{ duration: 0.8 }}
             />
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 leading-snug">
-              Why Choose Protone Car
+              Why Choose My Fast Car
               <br />
               Garage Dubai
             </h2>
