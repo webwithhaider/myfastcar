@@ -39,7 +39,7 @@ export default function GearboxSection() {
             transition={{ delay: 0.2 }}
             className="text-3xl md:text-4xl font-bold leading-tight"
           >
-            Protone Auto Care Offer Best <br />
+            My Fast Car Auto Care Offer Best <br />
             <span className="text-red-600">Transmission / Gearbox Repair Service in Dubai</span>
           </motion.h2>
 
