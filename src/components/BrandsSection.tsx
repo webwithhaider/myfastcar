@@ -10,11 +10,11 @@ interface Brand {
 }
 
 const brands: Brand[] = [
-  { name: "Ferrari Repair", image: "/ferrari.webp" },
+  { name: "Ferrari Repair", image: "/Ferrari.webp" },
   { name: "Porsche Repair", image: "/porsche.webp" },
   { name: "Lamborghini Repair", image: "/lambo.webp" },
   { name: "Rolls Royce Repair", image: "/rolls.webp" },
-  { name: "Audi Repair", image: "/audi.webp" },
+  { name: "Audi Repair", image: "/Audi.webp" },
   { name: "Bentley Repair", image: "/bently.jpg" },
   { name: "Aston Martin Repair", image: "/Astorn martin.webp" },
   { name: "All Brands", image: "/all.webp" },
