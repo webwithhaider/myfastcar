@@ -8,7 +8,7 @@ export default function Section2() {
     { title: "Car Inspection", icon: "/carinspect.webp" },
     { title: "Car Wrapping", icon: "/car2.webp" },
     { title: "Minor & Major Service", icon: "/major.webp" },
-    { title: "Auto Body Shop", icon: "/auto.webp" },
+    { title: "Auto Body Shop", icon: "/Auto.webp" },
     { title: "Service Contract", icon: "/service.webp" },
     { title: "Road Side Assistance", icon: "/road.webp" },
     { title: "Car Repair Service", icon: "/repair.webp" },
