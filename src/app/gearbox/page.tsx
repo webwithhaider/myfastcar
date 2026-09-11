@@ -18,7 +18,7 @@ function GearBox() {
         <GearboxHero
       title="Need A Professional"
       highlight="Gearbox Repair Near Me?"
-      description="Protone Auto Care Offers Best Gearbox / Transmission Repair Service in Dubai."
+      description="My Fast Car Auto Care Offers Best Gearbox / Transmission Repair Service in Dubai."
       phone="+9710000000"
       buttonText="Get Appointment"
       image="/images/gearbox-car.png"

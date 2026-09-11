@@ -49,7 +49,7 @@ export default function GearboxSection() {
             transition={{ delay: 0.4 }}
             className="text-gray-600 leading-relaxed text-lg"
           >
-            Protone Auto Care provides high quality Transmission and Gearbox Repair Service in Dubai.
+            My Fast Car Auto Care provides high quality Transmission and Gearbox Repair Service in Dubai.
             We specialize in gearbox inspection, automatic & manual gearbox repair, gearbox rebuilding,
             gearbox oil changes, overheating issues, gearbox noise repair and more.
           </motion.p>
