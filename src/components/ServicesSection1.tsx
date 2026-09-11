@@ -29,7 +29,7 @@ function ServicesSection1() {
           viewport={{ once: true }}
           className="text-white text-3xl md:text-5xl font-bold mb-6"
         >
-Protone Auto Care Services Packages
+My Fast Car Auto Care Services Packages
         </motion.h1>
 
         <motion.a

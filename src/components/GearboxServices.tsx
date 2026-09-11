@@ -12,11 +12,11 @@ export default function GearboxServices() {
   const services = [
     {
       title: "Gearbox / Auto Transmission Repair",
-      desc: `Are you having a tough time with your transmission system? From Manual Transmission Fluid Change to Automatic Transmission Slip Repair and everything in between, Protone Auto Care Services is All You Need!`,
+      desc: `Are you having a tough time with your transmission system? From Manual Transmission Fluid Change to Automatic Transmission Slip Repair and everything in between, My Fast Car Auto Care Services is All You Need!`,
     },
     {
       title: "Gearbox / Auto Transmission Rebuild",
-      desc: `Are you on the lookout for a reliable Transmission Rebuild Service in Dubai? Call out the Experts at Protone Auto Care Services and transfer maximum engine power to the wheels for optimal acceleration!`,
+      desc: `Are you on the lookout for a reliable Transmission Rebuild Service in Dubai? Call out the Experts at My Fast Car Auto Care Services and transfer maximum engine power to the wheels for optimal acceleration!`,
     },
     {
       title: "Differential Repair & Rebuild Service",

@@ -13,8 +13,8 @@ function page() {
               backgroundImage="/B.png"
             />
                <EngineRepairSection
-            title="Car Engine Repair Dubai : Protone Auto Care"
-            description1="Protone guarantees the repair of any car engine..."
+            title="Car Engine Repair Dubai : My Fast Car Auto Care"
+            description1="My Fast Car Auto Care guarantees the repair of any car engine..."
             description2="Certified technicians experienced in engine & gearbox rebuilds..."
             image="/ppf.jpg"
             services={[

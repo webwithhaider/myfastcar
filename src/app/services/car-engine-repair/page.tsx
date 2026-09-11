@@ -13,8 +13,8 @@ function page() {
         backgroundImage="/E2.webp"
       />
          <EngineRepairSection
-      title="Car Engine Repair Dubai : Protone Auto Care"
-      description1="Protone guarantees the repair of any car engine..."
+      title="Car Engine Repair Dubai : My Fast Car Auto Care"
+      description1="My Fast Car Auto Care guarantees the repair of any car engine..."
       description2="Certified technicians experienced in engine & gearbox rebuilds..."
       image="/E3.webp"
       services={[
@@ -35,7 +35,7 @@ function page() {
     <BrandsSection/>
       <EngineRepairSection
       title="Engine Oil Changes and Oil Pumps"
-      description1="We at Protone Auto Center have skilled specialists and cutting-edge equipment to repair engine oil leaking problems and provide Oil Pumps Services in Dubai. Bring your car to our Auto Workshop Dubai if your oil pump isn’t working correctly. We have a specialised engine rebuilding and repair staff that guarantees to handle any engine oil pump issues."
+      description1="We at My Fast Car Auto Center have skilled specialists and cutting-edge equipment to repair engine oil leaking problems and provide Oil Pumps Services in Dubai. Bring your car to our Auto Workshop Dubai if your oil pump isn’t working correctly. We have a specialised engine rebuilding and repair staff that guarantees to handle any engine oil pump issues."
       description2=""
       image="/E4.webp"
       services={[
@@ -47,7 +47,7 @@ function page() {
     />
       <EngineRepairSection
       title="Engine Overheating"
-      description1="For car engine repair in Dubai , consult specialists at Protone Car Garage dubai. They will accurately identify and resolve the issue quickly and affordably. Their specialists will overhaul your engine overheating and make it road-ready using cutting-edge tools and technology."
+      description1="For car engine repair in Dubai , consult specialists at My Fast Car Garage dubai. They will accurately identify and resolve the issue quickly and affordably. Their specialists will overhaul your engine overheating and make it road-ready using cutting-edge tools and technology."
       description2=""
       image="/E2.webp"
       services={[
