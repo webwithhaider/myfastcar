@@ -17,7 +17,7 @@ const brands: Brand[] = [
   { name: "Audi Repair", image: "/Audi.webp" },
   { name: "Bentley Repair", image: "/bently.jpg" },
   { name: "Aston Martin Repair", image: "/Astorn martin.webp" },
-  { name: "All Brands", image: "/all.webp" },
+  { name: "All Brands", image: "/All.webp" },
 ];
 
 // ✅ Motion Variants
