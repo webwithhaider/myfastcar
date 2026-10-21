@@ -35,7 +35,7 @@ export default function Hero() {
             AUTO CARE
           </h2>
           <p className="mt-5 text-gray-200 text-base sm:text-lg md:text-xl leading-relaxed max-w-md mx-auto lg:mx-0">
-            Premium detailing & auto care services in Dubai.
+            At My Fast Car Auto Care, we deliver premium automotive care and specialist repair services for luxury and high-performance vehicles across Dubai. Our experienced team combines technical expertise, advanced diagnostic technology, and meticulous attention to detail to keep your vehicle performing at its best.
           </p>
         </motion.div>
 
