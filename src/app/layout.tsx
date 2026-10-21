@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "My Fast Car Garage in Dubai | Luxury Car Repair & Maintenance",
+  title: "Dubai’s Trusted Luxury Car Repair & Specialist Auto Care Experts | Premium Care for Premium Cars. Excellence in Every Detail",
   description: "Premium detailing & auto care services in Dubai for luxury, American & German cars.",
 };
 
