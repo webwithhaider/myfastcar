@@ -28,9 +28,9 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
           className="text-center lg:text-left max-w-xl"
         >
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-tight">
-            My Fast Car
-          </h1>
+         <h1 className="whitespace-nowrap text-4xl sm:text-5xl md:text-6xl lg:text-6xl xl:text-7xl font-extrabold tracking-tight leading-tight">
+  My Fast Car
+</h1>
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-yellow-400 mt-3">
             AUTO CARE
           </h2>
